@@ -1,6 +1,5 @@
 # DC-DC-Converter-Designs
 
-Here there are 2 DC-DC Converters that I designed and tested during the 2nd year of my participation in the Formula Student Team, Aristotle University Racing Team Electric - ARISTURTLE.
 
 ### 600V Input, 24V Output, 25A max current DC-DC
 
