@@ -1,4 +1,4 @@
-# DC-DC-Converter-Designs
+# DC-DC Converters Designs
 
 
 ### 600V Input, 24V Output, 25A max current DC-DC
