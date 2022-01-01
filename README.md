@@ -10,7 +10,7 @@ A DC-DC Converter is designed and constructed in order to provide isolated power
 
 ### 600V Input, 12V Output, 200mA max current DC-DC
 
-A DC-DC Converter is designed and constructed for the Battery Pack led indicator power supply. The led indicator is necessary for safety purposes in order to show if the voltage of the Battery Pack is larger than 60V (FSAE Standards). 
+A DC-DC Converter is designed and constructed for the Battery Pack led indicator power supply. The led indicator is necessary for safety purposes in order to show if the voltage of the Battery Pack is larger than 60V (FSAE Standards). The schematic circuit along with the PCB in 3D view are shown below.
 
 ![photo](Screenshots/Screenshot_18.png)
 ![photo](Screenshots/Screenshot_19.png)
